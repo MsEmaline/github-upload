@@ -1,3 +1,3 @@
 # This is the project's README file
 
-### replace me with important information
+### Learning github skills through github's tutorials.
